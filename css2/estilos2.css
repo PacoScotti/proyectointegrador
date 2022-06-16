@@ -1,0 +1,38 @@
+*{margin: 0; padding: 0;}
+
+
+.logo {font-size: 40px; color: black; text-decoration: none;font-family: 'Bayon', sans-serif;}
+
+.centrado {justify-content: center; display: flex; padding: 10px;}
+.bg1 {background-color: rgb(68, 68, 203);height: 80px;}
+.logo {font-size: 40px; color: black; text-decoration: none;}
+.navegacion {justify-content: end;}
+.bg5 {background-color: rgb(68, 68, 203); height: 250px; margin-top: 70px;}
+.encabezado{ background-color: rgb(49, 159, 232); box-shadow: -1px 1px 9px #525252;}
+a {font-family: 'Permanent Marker', cursive;}
+a:hover {color: rgb(246, 228, 148);}
+.nav-link:hover {color: rgb(246, 228, 148)}
+.nav-link {font-size: 20px; margin-left: 20px}
+.email {font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+.ind2 {color: rgb(246, 228, 148)}
+.titulodecurr {margin: 30px; font-family: 'Permanent Marker', cursive}
+
+
+.gabimg {height: 265px; padding-top: 30px;}
+.data {display: block; padding-left: 75px;}
+img {border-radius: 10px;}
+h1 {text-align: center; font-family: 'Permanent Marker', 'monserrat', cursive; margin: 10px;}
+h2 {width: 100%; text-align: center; font-family: 'Montserrat', sans-serif;}
+p {margin: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; }
+.email {text-decoration: none;}
+.descripcion {font-size: 20px; font-weight: 500;}
+.titulo {color: rgb(49, 159, 232); margin-top: 25px;}
+.contenedorgrand {flex-wrap: wrap;}
+.contenedor1 {width: 25%;border: 2px solid;flex-wrap: wrap; border-radius: 5px; justify-content: center; margin: 15px;}
+.contenedor2 {width: 40%;border: 2px solid; border-radius: 5px; justify-content: center; margin: 15px;}
+.contenedor3 {width: 40%;border: 2px solid; flex-wrap: wrap; border-radius: 5px; justify-content: center; margin: 15px;}
+.instituto {width: 200px}
+.logosoft {width: 150px; height: 60px;}
+
+
+
