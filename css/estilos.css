@@ -26,7 +26,7 @@ h3 {text-align: center; margin: 6px;}
 .contiene2 {width: 140px; transition-duration: 1s;}
 .contiene2:hover {width: 170px;}
 
-.contiene3 {width: auto; font-size: 30px;}
+.contiene3 {width: 25%; font-size: 30px; text-align: end;}
 .noticias {width: 60%; padding-left: 0}
 .noticias2 {width: 40%; padding-left: 0;}
 .noticias3 {width: 60%; padding-left: 0}
@@ -91,8 +91,8 @@ form label {width: 300px; display: inline-block; font-weight: bold; padding: 10p
 form input {padding: 10px; border-radius: 5px;}
 form input [type=checkbox] {width: auto; }
 input {font-size: 15px;}
-.enviar {background-color:  rgb(34, 104, 128); color: white;}
-.enviar:hover {background-color: rgb(24, 24, 24); color: rgb(34, 104, 128);}
+.enviar {background-color:  rgb(34, 104, 128); color: white; transition-duration: 1s;}
+.enviar:hover {background-color: rgb(0, 0, 0); color: rgb(68, 68, 203);}
 .enviar2 {text-align: center; width: 110%;}
 .enviar3 {text-align: center; width: 85%; float: right;}
 
