@@ -96,7 +96,6 @@ input {font-size: 15px;}
 .enviar2 {text-align: center; width: 110%;}
 .enviar3 {text-align: center; width: 85%; float: right;}
 
-
 .registro {text-align: center; }
 
 form input [type=submit] {text-align: center;}
@@ -149,7 +148,7 @@ p {margin:  5px;}
 
 .slide {padding: 0;}
 .seccion3 {text-align: center; margin-top: 20px;}
-.formcontacto {padding: 6px; width: 60%;}
+.formcontacto {padding: 11px; width: 60%;}
 .botonenviar {padding: 6px;}
 
 
